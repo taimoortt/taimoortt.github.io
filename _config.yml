@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Taimoor Tariq"
+title                    : "Muhammad Taimoor Tariq"
 title_separator          : "-"
 name                     : &name "Muhammad Taimoor Tariq"
-description              : &description "Computer Science PhD Candidate at University of Illinois, Urbana-Champaign"
+description              : &description "Computer Science PhD Candidate at UIUC"
 url                      : https://taimoortt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/profile.png"
+  name             : "Muhammad Taimoor Tariq"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science PhD Candidate at University of Illinois, Urbana-Champaign"
+  bio              : "Computer Science PhD Candidate at UIUC"
   location         : "Urbana, IL"
   employer         : "University of Illinois, Urbana-Champaign"
-  uri              : # URL
+  uri              : "https://taimoortt.github.io"
   email            : "mttariq2@illinois.edu" 
 
   # Academic websites
