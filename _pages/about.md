@@ -15,8 +15,19 @@ I am a third-year PhD student at UIUC, advised by Professor Radhika Mittal. My r
 Publications
 ======
 
-1. **Mukhtiar Ahmad, Ali Nawazish, M Taimoor Tariq, Basit Iqbal, Taqi Raza, Zafar Ayyub Qazi**. *"Enabling Emerging Edge Applications Through a 5G Control Plane Intervention."* ACM CoNEXT 2022, Rome, Italy.
+## Publications
 
-2. **Mukhtiar Ahmad, Ali Nawazish, M Taimoor Tariq, Usman Jafri, Adnan Abbass, Mashal Abbas, Zartash Uzmi, Zafar Qazi**. *"Neutrino: A Fast and Consistent Edge-based Cellular Control Plane."* IEEE/ACM Transactions on Networking, 2022.
+1. **Enabling Emerging Edge Applications Through a 5G Control Plane Intervention.**  
+   ACM CoNEXT 2022, Rome, Italy.  
+   Mukhtiar Ahmad, Ali Nawazish, **M Taimoor Tariq**, Basit Iqbal, Taqi Raza, Zafar Ayyub Qazi.  
+   [Paper](https://dl.acm.org/doi/10.1145/3555050.3569130) | [Code](https://github.com/nsgLUMS/cellclone)
 
-3. **M Taimoor Tariq, Maha Kamal, Vafa Batool**. *"Fast Failure Detectors for 5G Edge Deployments."* Student Research Competition, SOSP 2021.
+2. **Neutrino: A Fast and Consistent Edge-based Cellular Control Plane.**  
+   IEEE/ACM Transactions on Networking, 2022.  
+   Mukhtiar Ahmad, Ali Nawazish, **M Taimoor Tariq**, Usman Jafri, Adnan Abbass, Mashal Abbas, Zartash Uzmi, Zafar Qazi.  
+   [Paper](https://ieeexplore.ieee.org/document/9885031) | [Code](https://github.com/nsgLUMS/neutrino)
+
+3. **Fast Failure Detectors for 5G Edge Deployments (Poster).**  
+   Student Research Competition, SOSP 2021.  
+   **M Taimoor Tariq**, Maha Kamal, Vafa Batool.
+
