@@ -68,11 +68,17 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+// $primary-color              : #7a8288;
+// $success-color              : #62c462;
+// $warning-color              : #f89406;
+// $danger-color               : #ee5f5b;
+// $info-color                 : #52adc8;
+
+$primary-color              : #4a6d8d;  // A light shade of dark blue
+$success-color              : #5cb85c;  // Keep the vibrant green
+$warning-color              : #f0ad4e;  // Keep the warm orange
+$danger-color               : #d9534f;  // Keep the darker red
+$info-color                 : #5bc0de;  // Keep the brighter blue
 
 /* brands */
 $behance-color              : #1769FF;
