@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am a third-year PhD student at UIUC, advised by Professor [Radhika Mittal](http://radhikam.web.illinois.edu). My research primarily focuses on resource-management for multi-cell deployments in 5G Networks.
+I am a fourth-year PhD student at UIUC, advised by Professor [Radhika Mittal](http://radhikam.web.illinois.edu). My research primarily focuses on resource-management for multi-cell deployments in 5G Networks.
 
 Prior to UIUC, I did my undergraduate from Lahore University of Management Sciences, Pakistan where I worked with Professor [Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), on challenges related to the design of control plane architecture for 5G.
 
