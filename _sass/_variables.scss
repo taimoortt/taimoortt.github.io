@@ -1,6 +1,7 @@
 /* ==========================================================================
    Variables
    ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 /*
    Typography
@@ -28,9 +29,16 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+// $global-font-family         : $sans-serif;
+// $header-font-family         : $sans-serif;
+// $caption-font-family        : $serif;
+
+$montserrat                : "Montserrat", sans-serif;
+
+$global-font-family        : $montserrat;   // Set Montserrat as the global font
+$header-font-family        : $montserrat;   // Use Montserrat for headers
+$caption-font-family       : $montserrat;   // Optional: Set Montserrat for captions
+
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -68,11 +76,17 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+// $primary-color              : #7a8288;
+// $success-color              : #62c462;
+// $warning-color              : #f89406;
+// $danger-color               : #ee5f5b;
+// $info-color                 : #52adc8;
+
+$primary-color              : #4a6d8d;  // A light shade of dark blue
+$success-color              : #5cb85c;  // Keep the vibrant green
+$warning-color              : #f0ad4e;  // Keep the warm orange
+$danger-color               : #d9534f;  // Keep the darker red
+$info-color                 : #5bc0de;  // Keep the brighter blue
 
 /* brands */
 $behance-color              : #1769FF;
