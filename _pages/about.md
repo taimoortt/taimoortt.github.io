@@ -28,7 +28,7 @@ To appear in NINeS 2026.
 ---
 
 **Centralized Traffic Engineering for Networked Farm Applications.**  
-IEEE/ACM SEC 2025.  
+To appear in IEEE/ACM SEC 2025.  
 Ammar Tahir, Yueshen Li, Jianli Jin, Changxin Zhang, Daniel Moon, Aganze Mihigo, **Taimoor Tariq**, Deepak Vasisht, Radhika Mittal.
 
 ---
