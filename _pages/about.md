@@ -33,7 +33,7 @@ Ammar Tahir, Yueshen Li, Jianli Jin, Changxin Zhang, Daniel Moon, Aganze Mihigo,
 ---
 
 **Enabling Emerging Edge Applications Through a 5G Control Plane Intervention**  
-*ACM CoNEXT 2022, Rome, Italy*  
+*ACM CoNEXT 2022*  
 Mukhtiar Ahmad, Ali Nawazish, **Taimoor Tariq**, Basit Iqbal, Taqi Raza, Zafar Ayyub Qazi  
 [Paper](https://dl.acm.org/doi/10.1145/3555050.3569130) · [Code](https://github.com/nsgLUMS/cellclone)
 
