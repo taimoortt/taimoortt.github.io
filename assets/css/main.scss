@@ -43,7 +43,18 @@
 
 @import "minimal-mistakes";
 
+/* Tighten spacing near top of pages */
+#main {
+  margin-top: 0.5em;
+}
+
 /* Shift page content upward */
 .page__content {
   padding-top: 0.5em;  /* try 0 if you want it tighter */
+}
+
+/* Remove extra margin on first element of page content */
+.page__content > :first-child {
+  margin-top: 0;
+  padding-top: 0;
 }

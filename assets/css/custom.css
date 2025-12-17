@@ -1,7 +1,0 @@
-
-@import "minimal-mistakes";
-
-/* Move content up a bit */
-.page__content {
-  padding-top: 0.5em; /* try 0 or 0.25em if you want it tighter */
-}
