@@ -16,13 +16,13 @@ Prior to UIUC, I did my undergraduate from Lahore University of Management Scien
 ## Publications
 **Saving Private Cellular: Addressing the Coordination Vacuum in CBRS**  
 *To appear in HotMobile 2026*  
-Taimoor Tariq, Radhika Mittal
+**Taimoor Tariq**, Radhika Mittal
 
 ---
 
 **Performance Isolation for 5G RAN Slicing Across Multiple Interfering Cells**  
 *To appear in NINeS 2026*  
-Taimoor Tariq, Yongzhou Chen, Haitham Hassanieh, Radhika Mittal
+**Taimoor Tariq**, Yongzhou Chen, Haitham Hassanieh, Radhika Mittal
 
 ---
 
