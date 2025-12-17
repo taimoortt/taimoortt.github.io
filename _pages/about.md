@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About
 
 I am a fourth-year PhD student at UIUC, advised by Professor [Radhika Mittal](http://radhikam.web.illinois.edu). My research focuses on resource management and coordination for multi-tenant networks while ensuring performance isolation.
