@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Muhammad Taimoor Tariq"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science PhD Candidate at UIUC"
+  bio              : "Computer Science PhD Candidate, UIUC"
   location         : "Urbana, IL"
   employer         : "UIUC"
-  uri              : "https://taimoortt.github.io"
+  # uri              : "https://taimoortt.github.io"
   email            : "mttariq2@illinois.edu" 
 
   # Academic websites
