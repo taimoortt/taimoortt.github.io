@@ -13,7 +13,7 @@ I am a fourth-year PhD student at UIUC, advised by Professor [Radhika Mittal](ht
 Prior to UIUC, I did my undergraduate from Lahore University of Management Sciences, Pakistan where I worked with Professor [Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), on challenges related to the design of control plane architecture for 5G.
 
 ## Publications
-**Saving Private Cellular: Addressing the Coordination Vacuum in CBRS**  
+**Saving Private Cellular: The Coordination Vacuum in CBRS**  
 *To appear in HotMobile 2026*  
 **Taimoor Tariq**, Radhika Mittal
 
