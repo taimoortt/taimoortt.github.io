@@ -14,21 +14,21 @@ Prior to UIUC, I did my undergraduate from Lahore University of Management Scien
 
 ## Publications
 **Saving Private Cellular: The Coordination Vacuum in CBRS**  
-*To appear in HotMobile 2026*  
+*HotMobile 2026*  
 **Taimoor Tariq**, Radhika Mittal
 [Paper](/files/saving-private-cellular.pdf) . [Slides](/files/saving-private-cellular-slides.pdf)
 
 ---
 
 **Performance Isolation for 5G RAN Slicing Across Multiple Interfering Cells**  
-*To appear in NINeS 2026*  
+*NINeS 2026*  
 **Taimoor Tariq**, Yongzhou Chen, Haitham Hassanieh, Radhika Mittal
 [Paper](/files/radioninja.pdf) . [Slides](/files/radioninja-slides.pdf)
 
 ---
 
 **Centralized Traffic Engineering for Networked Farm Applications**  
-*To appear in IEEE/ACM SEC 2025*  
+*IEEE/ACM SEC 2025*  
 Ammar Tahir, Yueshen Li, Jianli Jin, Changxin Zhang, Daniel Moon, Aganze Mihigo, **Taimoor Tariq**, Deepak Vasisht, Radhika Mittal
 [Paper](/files/farmnetes.pdf)
 ---
