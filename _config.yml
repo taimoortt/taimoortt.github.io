@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Taimoor Tariq"
+title                    : "Taimoor Tariq"
 title_separator          : "-"
-name                     : &name "Muhammad Taimoor Tariq"
+name                     : &name "Taimoor Tariq"
 description              : &description "Computer Science PhD Candidate at UIUC"
 url                      : https://taimoortt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ minimal_mistakes_skin: default
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Muhammad Taimoor Tariq"
+  name             : "Taimoor Tariq"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science PhD Candidate, UIUC"
   location         : "Urbana, IL"

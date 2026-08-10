@@ -27,6 +27,13 @@ Prior to UIUC, I did my undergraduate from Lahore University of Management Scien
 
 ---
 
+**5G RAN Slicing with Load Balanced Handovers**<br>
+*arXiv 2025*<br>
+Yongzhou Chen, **Taimoor Tariq**, Haitham Hassanieh, Radhika Mittal<br>
+[Paper](https://arxiv.org/abs/2505.24295)
+
+---
+
 **Centralized Traffic Engineering for Networked Farm Applications**  
 *IEEE/ACM SEC 2025*  
 Ammar Tahir, Yueshen Li, Jianli Jin, Changxin Zhang, Daniel Moon, Aganze Mihigo, **Taimoor Tariq**, Deepak Vasisht, Radhika Mittal  
