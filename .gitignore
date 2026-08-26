@@ -11,3 +11,11 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Agent instructions, skills, and configuration
+.agents/
+.agent/
+_agents/
+_agent/
+GEMINI.md
+AGENTS.md

@@ -23,7 +23,7 @@ Prior to UIUC, I did my undergraduate from Lahore University of Management Scien
 **Performance Isolation for 5G RAN Slicing Across Multiple Interfering Cells**  
 *NINeS 2026*  
 **Taimoor Tariq**, Yongzhou Chen, Haitham Hassanieh, Radhika Mittal  
-[Paper](/files/radioninja.pdf) | [Slides](/files/radioninja-slides.pdf) | [Talk](https://vimeo.com/showcase/NINeS?video=1161794549)
+[Paper](/files/radioninja.pdf) | [Slides](/files/radioninja-slides.pdf) | [Talk](https://vimeo.com/showcase/NINeS?video=1161794549) | [Code](https://github.com/taimoortt/RadioNinja)
 
 ---
 
