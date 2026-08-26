@@ -408,13 +408,18 @@ main {
 }
 
 .profile-avatar {
-  width: 135px;
-  height: 135px;
+  width: 185px;
+  height: 185px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center top;
   flex-shrink: 0;
-  border: 2.5px solid var(--color-border);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.07);
+  border: 3px solid var(--color-border);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: high-quality;
 }
 
 .profile-info {
@@ -678,8 +683,8 @@ footer.site-footer a:hover {
   }
 
   .profile-avatar {
-    width: 105px;
-    height: 105px;
+    width: 140px;
+    height: 140px;
   }
 
   nav.site-nav {
