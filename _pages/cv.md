@@ -1,64 +1,38 @@
 ---
-layout: archive
-title: "CV"
+layout: default
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+<p>
+  A direct PDF copy of my CV is available for download: 
+  <a href="{{ base_path }}/files/cv.pdf" target="_blank" rel="noopener noreferrer" class="pill-btn" style="margin-left: 0.5rem;">
+    <svg viewBox="0 0 24 24" style="width:14px;height:14px;fill:currentColor;"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>
+    Download CV (PDF)
+  </a>
+</p>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<h2>Education</h2>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div class="timeline-list">
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <div class="timeline-title">University of Illinois Urbana-Champaign (UIUC)</div>
+      <div class="timeline-subtitle">Ph.D. in Computer Science &middot; Advised by Prof. Radhika Mittal</div>
+    </div>
+    <div class="timeline-date">2021 &ndash; Present</div>
+  </div>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <div class="timeline-title">Lahore University of Management Sciences (LUMS)</div>
+      <div class="timeline-subtitle">B.S. in Computer Science &middot; Advised by Prof. Zafar Ayyub Qazi</div>
+    </div>
+    <div class="timeline-date">2017 &ndash; 2021</div>
+  </div>
+</div>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h2>Research Focus</h2>
+<p>
+  Resource management for multi-tenant networks, 5G Radio Access Network (RAN) slicing, performance isolation, spectrum coordination (CBRS), and edge cellular control planes.
+</p>

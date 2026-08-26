@@ -1,3 +1,49 @@
-<script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+  (function() {
+    var darkModeToggle = document.querySelector("#theme-toggle");
 
-{% include analytics.html %}
+    function toggleTheme() {
+      var isDark = document.body.classList.toggle("theme-dark");
+      document.documentElement.classList.toggle("theme-dark", isDark);
+      var theme = isDark ? "dark" : "light";
+      localStorage.setItem("theme", theme);
+      if (darkModeToggle) {
+        darkModeToggle.setAttribute("aria-checked", isDark.toString());
+      }
+    }
+
+    function initTheme() {
+      var savedTheme = localStorage.getItem("theme");
+      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var isDark = savedTheme === 'dark' || (!savedTheme && prefersDark);
+      
+      if (isDark) {
+        document.documentElement.classList.add("theme-dark");
+        document.body.classList.add("theme-dark");
+      } else {
+        document.documentElement.classList.remove("theme-dark");
+        document.body.classList.remove("theme-dark");
+      }
+      
+      if (darkModeToggle) {
+        darkModeToggle.setAttribute("aria-checked", isDark.toString());
+        darkModeToggle.addEventListener("click", toggleTheme);
+      }
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", initTheme);
+    } else {
+      initTheme();
+    }
+
+    window.addEventListener('keydown', function(e) {
+      if (document.activeElement && (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA')) {
+        return;
+      }
+      if ((e.key === 'd' || e.key === 'D') && !e.ctrlKey && !e.metaKey && !e.altKey) {
+        toggleTheme();
+      }
+    });
+  })();
+</script>
