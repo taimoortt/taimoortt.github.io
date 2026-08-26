@@ -48,8 +48,6 @@ layout: default
   <div class="pub-title">Saving Private Cellular: The Coordination Vacuum in CBRS</div>
   <div class="pub-meta">
     <span class="pub-badge badge-orange">HotMobile 2026</span>
-    <span>&middot;</span>
-    <span>ACM HotMobile</span>
   </div>
   <div class="pub-authors">
     <strong>Taimoor Tariq</strong>, Radhika Mittal
@@ -64,8 +62,6 @@ layout: default
   <div class="pub-title">Performance Isolation for 5G RAN Slicing Across Multiple Interfering Cells</div>
   <div class="pub-meta">
     <span class="pub-badge badge-blue">NINeS 2026</span>
-    <span>&middot;</span>
-    <span>Workshop on Next-Generation Internet and Networked Systems</span>
   </div>
   <div class="pub-authors">
     <strong>Taimoor Tariq</strong>, Yongzhou Chen, Haitham Hassanieh, Radhika Mittal
@@ -82,8 +78,6 @@ layout: default
   <div class="pub-title">5G RAN Slicing with Load Balanced Handovers</div>
   <div class="pub-meta">
     <span class="pub-badge badge-purple">arXiv 2025</span>
-    <span>&middot;</span>
-    <span>Preprint</span>
   </div>
   <div class="pub-authors">
     Yongzhou Chen, <strong>Taimoor Tariq</strong>, Haitham Hassanieh, Radhika Mittal
@@ -96,9 +90,7 @@ layout: default
 <div class="pub-item">
   <div class="pub-title">Centralized Traffic Engineering for Networked Farm Applications</div>
   <div class="pub-meta">
-    <span class="pub-badge badge-cyan">SEC 2025</span>
-    <span>&middot;</span>
-    <span>IEEE/ACM Symposium on Edge Computing</span>
+    <span class="pub-badge badge-cyan">IEEE/ACM SEC 2025</span>
   </div>
   <div class="pub-authors">
     Ammar Tahir, Yueshen Li, Jianli Jin, Changxin Zhang, Daniel Moon, Aganze Mihigo, <strong>Taimoor Tariq</strong>, Deepak Vasisht, Radhika Mittal
@@ -111,9 +103,7 @@ layout: default
 <div class="pub-item">
   <div class="pub-title">Enabling Emerging Edge Applications Through a 5G Control Plane Intervention</div>
   <div class="pub-meta">
-    <span class="pub-badge badge-green">CoNEXT 2022</span>
-    <span>&middot;</span>
-    <span>ACM CoNEXT</span>
+    <span class="pub-badge badge-green">ACM CoNEXT 2022</span>
   </div>
   <div class="pub-authors">
     Mukhtiar Ahmad, Muhammad Nawazish Ali, <strong>Taimoor Tariq</strong>, Basit Iqbal, Taqi Raza, Zafar Ayyub Qazi
@@ -127,9 +117,7 @@ layout: default
 <div class="pub-item">
   <div class="pub-title">Neutrino: A Fast and Consistent Edge-based Cellular Control Plane</div>
   <div class="pub-meta">
-    <span class="pub-badge badge-yellow">ToN 2022</span>
-    <span>&middot;</span>
-    <span>IEEE/ACM Transactions on Networking</span>
+    <span class="pub-badge badge-yellow">IEEE/ACM ToN 2022</span>
   </div>
   <div class="pub-authors">
     Mukhtiar Ahmad, Muhammad Nawazish Ali, <strong>Taimoor Tariq</strong>, Syed Usman Jafri, Adnan Abbass, Syeda Mashal Abbas, Basit Iqbal, Zartash Uzmi, Zafar Ayyub Qazi
@@ -143,9 +131,7 @@ layout: default
 <div class="pub-item">
   <div class="pub-title">Fast Failure Detectors for 5G Edge Deployments (Poster)</div>
   <div class="pub-meta">
-    <span class="pub-badge badge-magenta">SOSP 2021</span>
-    <span>&middot;</span>
-    <span>ACM SOSP Student Research Competition</span>
+    <span class="pub-badge badge-magenta">SOSP 2021 SRC</span>
   </div>
   <div class="pub-authors">
     <strong>Taimoor Tariq</strong>, Maha Kamal, Vafa Batool
