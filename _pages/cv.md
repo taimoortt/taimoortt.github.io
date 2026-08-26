@@ -20,7 +20,7 @@ permalink: /cv/
       <div class="timeline-title">University of Illinois Urbana-Champaign (UIUC)</div>
       <div class="timeline-subtitle">Ph.D. in Computer Science &middot; Advised by Prof. Radhika Mittal</div>
     </div>
-    <div class="timeline-date">2021 &ndash; Present</div>
+    <div class="timeline-date">2022 &ndash; Present</div>
   </div>
 
   <div class="timeline-item">
@@ -28,7 +28,7 @@ permalink: /cv/
       <div class="timeline-title">Lahore University of Management Sciences (LUMS)</div>
       <div class="timeline-subtitle">B.S. in Computer Science &middot; Advised by Prof. Zafar Ayyub Qazi</div>
     </div>
-    <div class="timeline-date">2017 &ndash; 2021</div>
+    <div class="timeline-date">2018 &ndash; 2022</div>
   </div>
 </div>
 

@@ -31,7 +31,7 @@ layout: default
 </div>
 
 <p>
-  I am a fifth-year PhD candidate in Computer Science at the <strong>University of Illinois Urbana-Champaign (UIUC)</strong>, advised by Professor <a href="http://radhikam.web.illinois.edu" target="_blank" rel="noopener noreferrer">Radhika Mittal</a>.
+  I am a PhD candidate in Computer Science at the <strong>University of Illinois Urbana-Champaign (UIUC)</strong>, advised by Professor <a href="http://radhikam.web.illinois.edu" target="_blank" rel="noopener noreferrer">Radhika Mittal</a>.
 </p>
 
 <p>
@@ -146,7 +146,7 @@ layout: default
       <div class="timeline-title">University of Illinois Urbana-Champaign (UIUC)</div>
       <div class="timeline-subtitle">Ph.D. in Computer Science &middot; Advised by Prof. Radhika Mittal</div>
     </div>
-    <div class="timeline-date">2021 &ndash; Present</div>
+    <div class="timeline-date">2022 &ndash; Present</div>
   </div>
 
   <div class="timeline-item">
@@ -154,6 +154,6 @@ layout: default
       <div class="timeline-title">Lahore University of Management Sciences (LUMS)</div>
       <div class="timeline-subtitle">B.S. in Computer Science &middot; Advised by Prof. Zafar Ayyub Qazi</div>
     </div>
-    <div class="timeline-date">2017 &ndash; 2021</div>
+    <div class="timeline-date">2018 &ndash; 2022</div>
   </div>
 </div>
