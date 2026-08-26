@@ -395,7 +395,7 @@ body.theme-dark #theme-toggle .theme-toggle-slide,
 /* Main Content Area */
 main {
   padding-top: 0.5rem;
-  padding-bottom: 3.5rem;
+  padding-bottom: 4.5rem;
 }
 
 /* Profile / Intro Section */
@@ -608,8 +608,9 @@ main {
 .timeline-list {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.15rem;
   margin-top: 0.75rem;
+  margin-bottom: 3rem;
 }
 
 .timeline-item {
