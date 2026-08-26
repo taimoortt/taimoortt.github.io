@@ -117,7 +117,7 @@ layout: default
 <div class="pub-item">
   <div class="pub-title">Neutrino: A Fast and Consistent Edge-based Cellular Control Plane</div>
   <div class="pub-meta">
-    <span class="pub-badge badge-yellow">IEEE/ACM ToN 2022</span>
+    <span class="pub-badge badge-yellow">IEEE/ACM Transactions on Networking, 2022</span>
   </div>
   <div class="pub-authors">
     Mukhtiar Ahmad, Muhammad Nawazish Ali, <strong>Taimoor Tariq</strong>, Syed Usman Jafri, Adnan Abbass, Syeda Mashal Abbas, Basit Iqbal, Zartash Uzmi, Zafar Ayyub Qazi
