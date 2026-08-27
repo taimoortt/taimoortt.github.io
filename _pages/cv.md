@@ -34,5 +34,5 @@ permalink: /cv/
 
 <h2>Research Focus</h2>
 <p>
-  Resource management for multi-tenant networks, 5G Radio Access Network (RAN) slicing, performance isolation, spectrum coordination (CBRS), and edge cellular control planes.
+  Resource management and coordination in multi-tenant networks, with an emphasis on balancing efficiency, fairness, and performance isolation.
 </p>

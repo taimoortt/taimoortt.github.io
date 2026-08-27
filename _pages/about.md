@@ -35,7 +35,7 @@ layout: default
 </p>
 
 <p>
-  My research focuses on <strong>resource management for multi-tenant networks</strong> while ensuring robust <strong>performance isolation</strong> across cellular radio access networks (5G RAN), shared spectrum (CBRS), and edge infrastructure.
+  My research focuses on <strong>resource management and coordination in multi-tenant networks</strong>, with an emphasis on balancing <strong>efficiency, fairness, and performance isolation</strong>.
 </p>
 
 <p>
