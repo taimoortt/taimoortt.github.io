@@ -83,7 +83,7 @@ layout: default
     Yongzhou Chen, <strong>Taimoor Tariq</strong>, Haitham Hassanieh, Radhika Mittal
   </div>
   <div class="pub-links">
-    <a href="https://arxiv.org/abs/2505.24295" target="_blank" rel="noopener noreferrer" class="pub-link">Paper (arXiv)</a>
+    <a href="https://arxiv.org/abs/2505.24295" target="_blank" rel="noopener noreferrer" class="pub-link">Paper</a>
   </div>
 </div>
 
