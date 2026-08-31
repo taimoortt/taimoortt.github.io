@@ -69,7 +69,7 @@ layout: default
   <div class="pub-links">
     <a href="{{ base_path }}/files/radioninja.pdf" target="_blank" class="pub-link">Paper</a>
     <a href="{{ base_path }}/files/radioninja-slides.pdf" target="_blank" class="pub-link">Slides</a>
-    <a href="https://vimeo.com/showcase/NINeS?video=1161794549" target="_blank" rel="noopener noreferrer" class="pub-link">Talk Video</a>
+    <a href="https://vimeo.com/showcase/NINeS?video=1161794549" target="_blank" rel="noopener noreferrer" class="pub-link">Talk</a>
     <a href="https://github.com/taimoortt/RadioNinja" target="_blank" rel="noopener noreferrer" class="pub-link">Code</a>
   </div>
 </div>
