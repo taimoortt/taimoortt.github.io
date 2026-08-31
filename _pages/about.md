@@ -123,7 +123,7 @@ layout: default
     Mukhtiar Ahmad, Muhammad Nawazish Ali, <strong>Taimoor Tariq</strong>, Syed Usman Jafri, Adnan Abbass, Syeda Mashal Abbas, Basit Iqbal, Zartash Uzmi, Zafar Ayyub Qazi
   </div>
   <div class="pub-links">
-    <a href="https://ieeexplore.ieee.org/document/9885031" target="_blank" rel="noopener noreferrer" class="pub-link">Paper (IEEE)</a>
+    <a href="https://ieeexplore.ieee.org/document/9885031" target="_blank" rel="noopener noreferrer" class="pub-link">Paper</a>
     <a href="https://github.com/nsgLUMS/neutrino" target="_blank" rel="noopener noreferrer" class="pub-link">Code</a>
   </div>
 </div>
