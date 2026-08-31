@@ -65,33 +65,9 @@
   --color-link-hover: #1A4F8C;
 
   /* Tag Badges (Light) */
-  --badge-orange-bg: #FFE7CE;
-  --badge-orange-tx: #9D4310;
-  --badge-orange-border: #FCC192;
-
-  --badge-blue-bg: #E1ECEB;
-  --badge-blue-tx: #1A4F8C;
-  --badge-blue-border: #ABCFE2;
-
-  --badge-green-bg: #EDEECF;
-  --badge-green-tx: #536907;
-  --badge-green-border: #CDD597;
-
-  --badge-purple-bg: #F0EAEC;
-  --badge-purple-tx: #4F3685;
-  --badge-purple-border: #D3CAE6;
-
-  --badge-cyan-bg: #DDF1E4;
-  --badge-cyan-tx: #1C6C66;
-  --badge-cyan-border: #A2DECE;
-
-  --badge-yellow-bg: #FAEEC6;
-  --badge-yellow-tx: #8E6B01;
-  --badge-yellow-border: #F1D67E;
-
-  --badge-magenta-bg: #FEE4E5;
-  --badge-magenta-tx: #87285E;
-  --badge-magenta-border: #F9B9CF;
+  --badge-bg: #E1ECEB;
+  --badge-tx: #1A4F8C;
+  --badge-border: #ABCFE2;
 }
 
 /* Dark Theme Mappings */
@@ -111,33 +87,9 @@ body.theme-dark,
   --color-link-hover: #92BFDB;
 
   /* Tag Badges (Dark) */
-  --badge-orange-bg: #331D12;
-  --badge-orange-tx: #F9AE77;
-  --badge-orange-border: #59290D;
-
-  --badge-blue-bg: #12253B;
-  --badge-blue-tx: #92BFDB;
-  --badge-blue-border: #1A4F8C;
-
-  --badge-green-bg: #1E2812;
-  --badge-green-tx: #BEC97E;
-  --badge-green-border: #3D4C07;
-
-  --badge-purple-bg: #241C39;
-  --badge-purple-tx: #C4B9E0;
-  --badge-purple-border: #4F3685;
-
-  --badge-cyan-bg: #132B28;
-  --badge-cyan-tx: #87D3C3;
-  --badge-cyan-border: #1C6C66;
-
-  --badge-yellow-bg: #2B230B;
-  --badge-yellow-tx: #ECCB60;
-  --badge-yellow-border: #664D01;
-
-  --badge-magenta-bg: #2C1723;
-  --badge-magenta-tx: #F4A4C2;
-  --badge-magenta-border: #641F46;
+  --badge-bg: #12253B;
+  --badge-tx: #92BFDB;
+  --badge-border: #1A4F8C;
 }
 
 /* Base Reset & Typography */
@@ -517,50 +469,10 @@ main {
   font-weight: 600;
   font-family: var(--font-mono);
   border-radius: 4px;
-  border: 1px solid transparent;
+  background-color: var(--badge-bg);
+  color: var(--badge-tx);
+  border: 1px solid var(--badge-border);
   line-height: 1.2;
-}
-
-.badge-orange {
-  background-color: var(--badge-orange-bg);
-  color: var(--badge-orange-tx);
-  border-color: var(--badge-orange-border);
-}
-
-.badge-blue {
-  background-color: var(--badge-blue-bg);
-  color: var(--badge-blue-tx);
-  border-color: var(--badge-blue-border);
-}
-
-.badge-green {
-  background-color: var(--badge-green-bg);
-  color: var(--badge-green-tx);
-  border-color: var(--badge-green-border);
-}
-
-.badge-purple {
-  background-color: var(--badge-purple-bg);
-  color: var(--badge-purple-tx);
-  border-color: var(--badge-purple-border);
-}
-
-.badge-cyan {
-  background-color: var(--badge-cyan-bg);
-  color: var(--badge-cyan-tx);
-  border-color: var(--badge-cyan-border);
-}
-
-.badge-yellow {
-  background-color: var(--badge-yellow-bg);
-  color: var(--badge-yellow-tx);
-  border-color: var(--badge-yellow-border);
-}
-
-.badge-magenta {
-  background-color: var(--badge-magenta-bg);
-  color: var(--badge-magenta-tx);
-  border-color: var(--badge-magenta-border);
 }
 
 .pub-authors {
