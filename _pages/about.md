@@ -39,7 +39,7 @@ layout: default
 </p>
 
 <p>
-  Prior to UIUC, I completed my undergraduate studies at <strong>Lahore University of Management Sciences (LUMS)</strong>, Pakistan, where I worked with Professor <a href="https://web.lums.edu.pk/~zafar/" target="_blank" rel="noopener noreferrer">Zafar Ayyub Qazi</a> on the design of control plane architecture for 5G deployments.
+  Prior to UIUC, I completed my undergraduate studies at <strong>Lahore University of Management Sciences (LUMS)</strong>, where I worked with Professor <a href="https://web.lums.edu.pk/~zafar/" target="_blank" rel="noopener noreferrer">Zafar Ayyub Qazi</a> on the design of control plane architecture for 5G deployments.
 </p>
 
 <h2 id="publications">Publications</h2>
